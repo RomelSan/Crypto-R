@@ -69,10 +69,9 @@
             // 
             // openFileDialog1
             // 
-            this.openFileDialog1.FileName = "openFileDialog1";
             this.openFileDialog1.Filter = "All files|*.*";
             this.openFileDialog1.ReadOnlyChecked = true;
-            this.openFileDialog1.Title = "Choose a file to encrypt";
+            this.openFileDialog1.Title = "Choose a File";
             // 
             // button_decrypt
             // 
