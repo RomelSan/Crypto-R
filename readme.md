@@ -1,5 +1,5 @@
 # Crypto-R
-AES Standard File Encryption
+AES Standard File Encryption    
 For Windows 10
 
 ### Features
@@ -19,5 +19,5 @@ For Windows 10
 MIT License
 
 ### Contact
-Twitter: [@RomelSan](http://www.twitter.com/RomelSan)
+Twitter: [@RomelSan](http://www.twitter.com/RomelSan)    
 Date: November 11, 2015 12:20 PM
